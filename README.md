@@ -9,3 +9,5 @@
 These are a set of basic python webscraping tools that are designed to quickly access and download avaialble aerodrome, departure, arrival and other important charts into a neat directory hierarchy.
 ## Why?
 When flying in MSFS and X-Plane, I was sick of having to have a browser open to use Chartfox and wanted to be able to fly offline - without paying the price for Navigraph. Therefore, I was inspired to create these tools to download charts for flight simulator use. I found some popularity when I shared them on a discord server, so thought it may be useful to others so I published them here for all to use.
+## How?
+To use these tools, you must have Python 3 installed which can be optained from https://www.python.org/downloads/ or your package manager. These scripts are CLI based and some have options to select before the download begins.
